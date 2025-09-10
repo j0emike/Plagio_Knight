@@ -16,10 +16,13 @@ public class MovementPlayer : MonoBehaviour
     //Variables
     public Transform transformPlayer;
     public Rigidbody2D rigidBody2DPlayer;
+    public SpriteRenderer spriteRenderer;
+    public bool saltoValido = true;
 
     void Start()
     {
         print("Start");
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
 
@@ -27,20 +30,34 @@ public class MovementPlayer : MonoBehaviour
     void Update()
     {
         //transform ignora las fisicas
-        if (Input.GetKeyDown(KeyCode.A))
+        
+        if (Input.GetKey(KeyCode.A))
         {
             print("Voy a la izquierda");
-            transformPlayer.position = Vector3.left;
+            rigidBody2DPlayer.AddForce(Vector2.left * 5f);
+            //transformPlayer.position = Vector3.left;
         }
-        else if (Input.GetKeyDown(KeyCode.D))
+        else if (Input.GetKey(KeyCode.D))
         {
             print("Voy a la derecha");
-            transformPlayer.position = Vector3.right;
+            rigidBody2DPlayer.AddForce(Vector2.right * 5f);
+            //transformPlayer.position = Vector3.right;
         }
-        else if (Input.GetKeyDown(KeyCode.W))
+        if (Input.GetKey(KeyCode.W))
         {
             print("Voy hacia arriba");
-            transformPlayer.position = Vector3.up;
+            if (saltoValido)
+            {
+                rigidBody2DPlayer.AddForce(Vector2.up * 0.5f, ForceMode2D.Impulse);
+            }
+            //transformPlayer.position = Vector3.up;
         }
+        
+    }
+
+    //Detecta una Colision
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        
     }
 }
