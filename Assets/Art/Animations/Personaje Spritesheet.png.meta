@@ -1,0 +1,2691 @@
+fileFormatVersion: 2
+guid: 6301c9d6d6c2df94bbd17cac1790fb7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -27521838013407931
+    second: Personaje Spritesheet_0
+  - first:
+      213: 5475096761723786631
+    second: Personaje Spritesheet_1
+  - first:
+      213: -7885831970763318807
+    second: Personaje Spritesheet_2
+  - first:
+      213: 3694380588155659943
+    second: Personaje Spritesheet_3
+  - first:
+      213: -4662328338160418365
+    second: Personaje Spritesheet_4
+  - first:
+      213: 6419918854916781585
+    second: Personaje Spritesheet_5
+  - first:
+      213: 2604294891978294047
+    second: Personaje Spritesheet_6
+  - first:
+      213: -7409411835418637371
+    second: Personaje Spritesheet_7
+  - first:
+      213: 4304612228539474860
+    second: Personaje Spritesheet_8
+  - first:
+      213: 4260675048569998717
+    second: Personaje Spritesheet_9
+  - first:
+      213: -6299368322982695873
+    second: Personaje Spritesheet_10
+  - first:
+      213: -3661757369152444263
+    second: Personaje Spritesheet_11
+  - first:
+      213: -8267613532777911957
+    second: Personaje Spritesheet_12
+  - first:
+      213: -1222494491858017536
+    second: Personaje Spritesheet_13
+  - first:
+      213: 1542961386539165258
+    second: Personaje Spritesheet_14
+  - first:
+      213: -4596237387180699648
+    second: Personaje Spritesheet_15
+  - first:
+      213: 2355338080453579966
+    second: Personaje Spritesheet_16
+  - first:
+      213: 6874815752583955948
+    second: Personaje Spritesheet_17
+  - first:
+      213: -1922571268228359038
+    second: Personaje Spritesheet_18
+  - first:
+      213: -1853617161296344236
+    second: Personaje Spritesheet_19
+  - first:
+      213: 3646220866081467960
+    second: Personaje Spritesheet_20
+  - first:
+      213: -7113861836883366532
+    second: Personaje Spritesheet_21
+  - first:
+      213: -4825425300992361524
+    second: Personaje Spritesheet_22
+  - first:
+      213: 1640935904201454665
+    second: Personaje Spritesheet_23
+  - first:
+      213: 8015453996099965694
+    second: Personaje Spritesheet_24
+  - first:
+      213: -7397201137408137010
+    second: Personaje Spritesheet_25
+  - first:
+      213: -7015980810563829951
+    second: Personaje Spritesheet_26
+  - first:
+      213: -742183871495168598
+    second: Personaje Spritesheet_27
+  - first:
+      213: 9214755616675035719
+    second: Personaje Spritesheet_28
+  - first:
+      213: -1422974272957410147
+    second: Personaje Spritesheet_29
+  - first:
+      213: -8257230906782473245
+    second: Personaje Spritesheet_30
+  - first:
+      213: -338169188988404108
+    second: Personaje Spritesheet_31
+  - first:
+      213: -503376358189011350
+    second: Personaje Spritesheet_32
+  - first:
+      213: 422752362400242753
+    second: Personaje Spritesheet_33
+  - first:
+      213: 2697713295977829792
+    second: Personaje Spritesheet_34
+  - first:
+      213: 2413246529274797383
+    second: Personaje Spritesheet_35
+  - first:
+      213: 3699869340105016401
+    second: Personaje Spritesheet_36
+  - first:
+      213: -1600636662571749912
+    second: Personaje Spritesheet_37
+  - first:
+      213: -8401608620605274960
+    second: Personaje Spritesheet_38
+  - first:
+      213: 6428633002571230684
+    second: Personaje Spritesheet_39
+  - first:
+      213: -6421386251364726956
+    second: Personaje Spritesheet_40
+  - first:
+      213: -6954271707352460697
+    second: Personaje Spritesheet_41
+  - first:
+      213: -4000299496281175404
+    second: Personaje Spritesheet_42
+  - first:
+      213: -9102921734708651541
+    second: Personaje Spritesheet_43
+  - first:
+      213: 5301561122320092497
+    second: Personaje Spritesheet_44
+  - first:
+      213: 4226420066636856673
+    second: Personaje Spritesheet_45
+  - first:
+      213: 6981284161493350797
+    second: Personaje Spritesheet_46
+  - first:
+      213: -6273007405210829159
+    second: Personaje Spritesheet_47
+  - first:
+      213: -8912683361857218153
+    second: Personaje Spritesheet_48
+  - first:
+      213: -6300605882830209666
+    second: Personaje Spritesheet_49
+  - first:
+      213: -4721248522138756688
+    second: Personaje Spritesheet_50
+  - first:
+      213: 4216274916527447989
+    second: Personaje Spritesheet_51
+  - first:
+      213: 8498818020526149283
+    second: Personaje Spritesheet_52
+  - first:
+      213: -1578382081523041413
+    second: Personaje Spritesheet_53
+  - first:
+      213: -7619834010744476170
+    second: Personaje Spritesheet_54
+  - first:
+      213: -2160284452321464285
+    second: Personaje Spritesheet_55
+  - first:
+      213: -3974151950755780955
+    second: Personaje Spritesheet_56
+  - first:
+      213: 2979231752661997391
+    second: Personaje Spritesheet_57
+  - first:
+      213: 4873503673794480696
+    second: Personaje Spritesheet_58
+  - first:
+      213: 282538718855011382
+    second: Personaje Spritesheet_59
+  - first:
+      213: -2424452106785234315
+    second: Personaje Spritesheet_60
+  - first:
+      213: 7634909634410793673
+    second: Personaje Spritesheet_61
+  - first:
+      213: 3732173993489647147
+    second: Personaje Spritesheet_62
+  - first:
+      213: -1294680674083400289
+    second: Personaje Spritesheet_63
+  - first:
+      213: 6752162000483390233
+    second: Personaje Spritesheet_64
+  - first:
+      213: -64871594834458085
+    second: Personaje Spritesheet_65
+  - first:
+      213: -6551219692554243050
+    second: Personaje Spritesheet_66
+  - first:
+      213: -4642411485631695365
+    second: Personaje Spritesheet_67
+  - first:
+      213: 3338357100915906960
+    second: Personaje Spritesheet_68
+  - first:
+      213: 4842302439790233162
+    second: Personaje Spritesheet_69
+  - first:
+      213: 357404603604723810
+    second: Personaje Spritesheet_70
+  - first:
+      213: 9029095616947998289
+    second: Personaje Spritesheet_71
+  - first:
+      213: -1131068186389406212
+    second: Personaje Spritesheet_72
+  - first:
+      213: -5434406747777556214
+    second: Personaje Spritesheet_73
+  - first:
+      213: 3598817034342224195
+    second: Personaje Spritesheet_74
+  - first:
+      213: 6383697918316890422
+    second: Personaje Spritesheet_75
+  - first:
+      213: -4106516848979640005
+    second: Personaje Spritesheet_76
+  - first:
+      213: 3663247370715723207
+    second: Personaje Spritesheet_77
+  - first:
+      213: -7401884037709371756
+    second: Personaje Spritesheet_78
+  - first:
+      213: 2170046252473107602
+    second: Personaje Spritesheet_79
+  - first:
+      213: 4488069430143894033
+    second: Personaje Spritesheet_80
+  - first:
+      213: 6612844456581691009
+    second: Personaje Spritesheet_81
+  - first:
+      213: -6128462944341043378
+    second: Personaje Spritesheet_82
+  - first:
+      213: 4730366990549693278
+    second: Personaje Spritesheet_83
+  - first:
+      213: -1716167764389112399
+    second: Personaje Spritesheet_84
+  - first:
+      213: -429818126798833747
+    second: Personaje Spritesheet_85
+  - first:
+      213: -4959481639725416183
+    second: Personaje Spritesheet_86
+  - first:
+      213: -3690377662646326461
+    second: Personaje Spritesheet_87
+  - first:
+      213: 5771037810143818625
+    second: Personaje Spritesheet_88
+  - first:
+      213: -1368511570068405059
+    second: Personaje Spritesheet_89
+  - first:
+      213: 5127858037261222976
+    second: Personaje Spritesheet_90
+  - first:
+      213: -4329084032868241258
+    second: Personaje Spritesheet_91
+  - first:
+      213: 2681083928646416848
+    second: Personaje Spritesheet_92
+  - first:
+      213: 1816517724988648718
+    second: Personaje Spritesheet_93
+  - first:
+      213: 1694648219275993868
+    second: Personaje Spritesheet_94
+  - first:
+      213: -8717982223602295687
+    second: Personaje Spritesheet_95
+  - first:
+      213: -7708625957603242271
+    second: Personaje Spritesheet_96
+  - first:
+      213: -7832944751603499067
+    second: Personaje Spritesheet_97
+  - first:
+      213: 638320053555243192
+    second: Personaje Spritesheet_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personaje Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1547
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d15adb8093e9ff0800000000000000
+      internalID: -27521838013407931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1544
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78510791f737bfb40800000000000000
+      internalID: 5475096761723786631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1549
+        width: 115
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9db308a95ef8290800000000000000
+      internalID: -7885831970763318807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1546
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6ed1e3293154330800000000000000
+      internalID: 3694380588155659943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1546
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c106b914151c4fb0800000000000000
+      internalID: -4662328338160418365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1544
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116b5223f22281950800000000000000
+      internalID: 6419918854916781585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1564
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f130bb6f760542420800000000000000
+      internalID: 2604294891978294047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1575
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb0c43413b7c2990800000000000000
+      internalID: -7409411835418637371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1570
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3e5e9d30e0dbb30800000000000000
+      internalID: 4304612228539474860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1575
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d8265f165f02b30800000000000000
+      internalID: 4260675048569998717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1570
+        width: 126
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ca44fb2e52498a0800000000000000
+      internalID: -6299368322982695873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1416
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998eff5d213de2dc0800000000000000
+      internalID: -3661757369152444263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1416
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b696f8eab49834d80800000000000000
+      internalID: -8267613532777911957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1416
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0036ee89cb3d80fe0800000000000000
+      internalID: -1222494491858017536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1416
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46afc2c433b96510800000000000000
+      internalID: 1542961386539165258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1416
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00099b1c272e630c0800000000000000
+      internalID: -4596237387180699648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1416
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d26b4187dfa020800000000000000
+      internalID: 2355338080453579966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1461
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5c60da080486f50800000000000000
+      internalID: 6874815752583955948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1413
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c50e52e97a155e0800000000000000
+      internalID: -1922571268228359038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1413
+        width: 132
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b0d5f3301a646e0800000000000000
+      internalID: -1853617161296344236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1418
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e27672f8af99230800000000000000
+      internalID: 3646220866081467960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1414
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7deb57a95c764d90800000000000000
+      internalID: -7113861836883366532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1401
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbfa244145a80db0800000000000000
+      internalID: -4825425300992361524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1403
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944bc15c286c5c610800000000000000
+      internalID: 1640935904201454665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1403
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2160711fc9c3f60800000000000000
+      internalID: 8015453996099965694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1403
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec82ca0f1ccd75990800000000000000
+      internalID: -7397201137408137010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1403
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fb26300aa32ae90800000000000000
+      internalID: -7015980810563829951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1280
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad918d73bb33b5f0800000000000000
+      internalID: -742183871495168598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1278
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a73f7596361ef70800000000000000
+      internalID: 9214755616675035719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1278
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d949adf1074904ce0800000000000000
+      internalID: -1422974272957410147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1276
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3aadc2d3c686d80800000000000000
+      internalID: -8257230906782473245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1276
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e3d501ae49e4bf0800000000000000
+      internalID: -338169188988404108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1276
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e60d58ed5a309f0800000000000000
+      internalID: -503376358189011350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1153
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cd2d4a80bedd500800000000000000
+      internalID: 422752362400242753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1152
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a55b9813f3307520800000000000000
+      internalID: 2697713295977829792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1153
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d5ed4bee29d7120800000000000000
+      internalID: 2413246529274797383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1153
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1548154ef83985330800000000000000
+      internalID: 3699869340105016401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1155
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eda1f89f6569c9e0800000000000000
+      internalID: -1600636662571749912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1155
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b486f2297d776b80800000000000000
+      internalID: -8401608620605274960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1041
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd6c9dc7a7173950800000000000000
+      internalID: 6428633002571230684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1041
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45704d1f937a2e6a0800000000000000
+      internalID: -6421386251364726956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1035
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76215bb3ab67d7f90800000000000000
+      internalID: -6954271707352460697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1041
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a8cf87dc41c78c0800000000000000
+      internalID: -4000299496281175404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1036
+        width: 131
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9128069eceba180800000000000000
+      internalID: -9102921734708651541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1040
+        width: 129
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d09ea70cde29940800000000000000
+      internalID: 5301561122320092497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1036
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16df87778a247aa30800000000000000
+      internalID: 4226420066636856673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 926
+        width: 135
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d893fd9d4f082e060800000000000000
+      internalID: 6981284161493350797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 924
+        width: 107
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e7303300dc1f8a0800000000000000
+      internalID: -6273007405210829159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 924
+        width: 130
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79957fc24b9cf4480800000000000000
+      internalID: -8912683361857218153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 920
+        width: 105
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d3b24e450cf88a0800000000000000
+      internalID: -6300605882830209666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 920
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9d49dbb71ca7eb0800000000000000
+      internalID: -4721248522138756688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 911
+        width: 132
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf1203a2b7338a30800000000000000
+      internalID: 4216274916527447989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 908
+        width: 133
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae462406fdd1f570800000000000000
+      internalID: 8498818020526149283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 804
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b3af60cd5781ae0800000000000000
+      internalID: -1578382081523041413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 809
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fda22eb659e04690800000000000000
+      internalID: -7619834010744476170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 809
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320749d7cb02502e0800000000000000
+      internalID: -2160284452321464285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 809
+        width: 129
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a6c35bd9f8d8c0800000000000000
+      internalID: -3974151950755780955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 809
+        width: 117
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f479bf09e7b585920800000000000000
+      internalID: 2979231752661997391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 691
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ac41835c922a340800000000000000
+      internalID: 4873503673794480696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 696
+        width: 130
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c95a4c777cbe300800000000000000
+      internalID: 282538718855011382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 692
+        width: 152
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5726e1877ad9a5ed0800000000000000
+      internalID: -2424452106785234315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 691
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca434b6cd5a4f960800000000000000
+      internalID: 7634909634410793673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 691
+        width: 127
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26c6e129785bc330800000000000000
+      internalID: 3732173993489647147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 686
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9512b359ce580ee0800000000000000
+      internalID: -1294680674083400289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 579
+        width: 133
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91314b0a09f74bd50800000000000000
+      internalID: 6752162000483390233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 572
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a01e1d0a7891ff0800000000000000
+      internalID: -64871594834458085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 568
+        width: 134
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614b2c346646515a0800000000000000
+      internalID: -6551219692554243050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 569
+        width: 136
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5bab1b957d29fb0800000000000000
+      internalID: -4642411485631695365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 568
+        width: 103
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099de7d881a345e20800000000000000
+      internalID: 3338357100915906960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 433
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4644b2d960533340800000000000000
+      internalID: 4842302439790233162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 435
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268e2f6e791c5f400800000000000000
+      internalID: 357404603604723810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 431
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ec83b10aacd4d70800000000000000
+      internalID: 9029095616947998289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 433
+        width: 135
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd93852a73ad40f0800000000000000
+      internalID: -1131068186389406212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 436
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01abb90bdb1594b0800000000000000
+      internalID: -5434406747777556214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 457
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341d79f760191f130800000000000000
+      internalID: 3598817034342224195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 430
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639cda63f63779850800000000000000
+      internalID: 6383697918316890422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 297
+        width: 134
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b318960eea8b207c0800000000000000
+      internalID: -4106516848979640005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 300
+        width: 129
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5f4ef231876d230800000000000000
+      internalID: 3663247370715723207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 366
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496e2bf3fa9374990800000000000000
+      internalID: -7401884037709371756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 293
+        width: 113
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294c3d8b19d8d1e10800000000000000
+      internalID: 2170046252473107602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 295
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112440f2e53d84e30800000000000000
+      internalID: 4488069430143894033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 300
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18676753ffa85cb50800000000000000
+      internalID: 6612844456581691009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 300
+        width: 118
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47586f0c6353faa0800000000000000
+      internalID: -6128462944341043378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 295
+        width: 130
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53b2f027b3a5a140800000000000000
+      internalID: 4730366990549693278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 300
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b55c9cc282fe28e0800000000000000
+      internalID: -1716167764389112399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7b122e0baf80af0800000000000000
+      internalID: -429818126798833747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 146
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9014812a9b16c2bb0800000000000000
+      internalID: -4959481639725416183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 147
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bedea711529ccc0800000000000000
+      internalID: -3690377662646326461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 237
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18378f2ef48d61050800000000000000
+      internalID: 5771037810143818625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 62
+        width: 119
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db48f0b4af1120de0800000000000000
+      internalID: -1368511570068405059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 143
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044469167bfc92740800000000000000
+      internalID: 5127858037261222976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 144
+        width: 126
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690b21232010ce3c0800000000000000
+      internalID: -4329084032868241258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 144
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d97afbc0af153520800000000000000
+      internalID: 2681083928646416848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 151
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d262e1f31953910800000000000000
+      internalID: 1816517724988648718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 149
+        width: 113
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03a139a399948710800000000000000
+      internalID: 1694648219275993868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 149
+        width: 113
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cd3048b51830780800000000000000
+      internalID: -8717982223602295687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee04ba9885750590800000000000000
+      internalID: -7708625957603242271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 6
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfb967cf3acb4390800000000000000
+      internalID: -7832944751603499067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 5
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b82b2de4b4cbd800800000000000000
+      internalID: 638320053555243192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Personaje Spritesheet_0: -27521838013407931
+      Personaje Spritesheet_1: 5475096761723786631
+      Personaje Spritesheet_10: -6299368322982695873
+      Personaje Spritesheet_11: -3661757369152444263
+      Personaje Spritesheet_12: -8267613532777911957
+      Personaje Spritesheet_13: -1222494491858017536
+      Personaje Spritesheet_14: 1542961386539165258
+      Personaje Spritesheet_15: -4596237387180699648
+      Personaje Spritesheet_16: 2355338080453579966
+      Personaje Spritesheet_17: 6874815752583955948
+      Personaje Spritesheet_18: -1922571268228359038
+      Personaje Spritesheet_19: -1853617161296344236
+      Personaje Spritesheet_2: -7885831970763318807
+      Personaje Spritesheet_20: 3646220866081467960
+      Personaje Spritesheet_21: -7113861836883366532
+      Personaje Spritesheet_22: -4825425300992361524
+      Personaje Spritesheet_23: 1640935904201454665
+      Personaje Spritesheet_24: 8015453996099965694
+      Personaje Spritesheet_25: -7397201137408137010
+      Personaje Spritesheet_26: -7015980810563829951
+      Personaje Spritesheet_27: -742183871495168598
+      Personaje Spritesheet_28: 9214755616675035719
+      Personaje Spritesheet_29: -1422974272957410147
+      Personaje Spritesheet_3: 3694380588155659943
+      Personaje Spritesheet_30: -8257230906782473245
+      Personaje Spritesheet_31: -338169188988404108
+      Personaje Spritesheet_32: -503376358189011350
+      Personaje Spritesheet_33: 422752362400242753
+      Personaje Spritesheet_34: 2697713295977829792
+      Personaje Spritesheet_35: 2413246529274797383
+      Personaje Spritesheet_36: 3699869340105016401
+      Personaje Spritesheet_37: -1600636662571749912
+      Personaje Spritesheet_38: -8401608620605274960
+      Personaje Spritesheet_39: 6428633002571230684
+      Personaje Spritesheet_4: -4662328338160418365
+      Personaje Spritesheet_40: -6421386251364726956
+      Personaje Spritesheet_41: -6954271707352460697
+      Personaje Spritesheet_42: -4000299496281175404
+      Personaje Spritesheet_43: -9102921734708651541
+      Personaje Spritesheet_44: 5301561122320092497
+      Personaje Spritesheet_45: 4226420066636856673
+      Personaje Spritesheet_46: 6981284161493350797
+      Personaje Spritesheet_47: -6273007405210829159
+      Personaje Spritesheet_48: -8912683361857218153
+      Personaje Spritesheet_49: -6300605882830209666
+      Personaje Spritesheet_5: 6419918854916781585
+      Personaje Spritesheet_50: -4721248522138756688
+      Personaje Spritesheet_51: 4216274916527447989
+      Personaje Spritesheet_52: 8498818020526149283
+      Personaje Spritesheet_53: -1578382081523041413
+      Personaje Spritesheet_54: -7619834010744476170
+      Personaje Spritesheet_55: -2160284452321464285
+      Personaje Spritesheet_56: -3974151950755780955
+      Personaje Spritesheet_57: 2979231752661997391
+      Personaje Spritesheet_58: 4873503673794480696
+      Personaje Spritesheet_59: 282538718855011382
+      Personaje Spritesheet_6: 2604294891978294047
+      Personaje Spritesheet_60: -2424452106785234315
+      Personaje Spritesheet_61: 7634909634410793673
+      Personaje Spritesheet_62: 3732173993489647147
+      Personaje Spritesheet_63: -1294680674083400289
+      Personaje Spritesheet_64: 6752162000483390233
+      Personaje Spritesheet_65: -64871594834458085
+      Personaje Spritesheet_66: -6551219692554243050
+      Personaje Spritesheet_67: -4642411485631695365
+      Personaje Spritesheet_68: 3338357100915906960
+      Personaje Spritesheet_69: 4842302439790233162
+      Personaje Spritesheet_7: -7409411835418637371
+      Personaje Spritesheet_70: 357404603604723810
+      Personaje Spritesheet_71: 9029095616947998289
+      Personaje Spritesheet_72: -1131068186389406212
+      Personaje Spritesheet_73: -5434406747777556214
+      Personaje Spritesheet_74: 3598817034342224195
+      Personaje Spritesheet_75: 6383697918316890422
+      Personaje Spritesheet_76: -4106516848979640005
+      Personaje Spritesheet_77: 3663247370715723207
+      Personaje Spritesheet_78: -7401884037709371756
+      Personaje Spritesheet_79: 2170046252473107602
+      Personaje Spritesheet_8: 4304612228539474860
+      Personaje Spritesheet_80: 4488069430143894033
+      Personaje Spritesheet_81: 6612844456581691009
+      Personaje Spritesheet_82: -6128462944341043378
+      Personaje Spritesheet_83: 4730366990549693278
+      Personaje Spritesheet_84: -1716167764389112399
+      Personaje Spritesheet_85: -429818126798833747
+      Personaje Spritesheet_86: -4959481639725416183
+      Personaje Spritesheet_87: -3690377662646326461
+      Personaje Spritesheet_88: 5771037810143818625
+      Personaje Spritesheet_89: -1368511570068405059
+      Personaje Spritesheet_9: 4260675048569998717
+      Personaje Spritesheet_90: 5127858037261222976
+      Personaje Spritesheet_91: -4329084032868241258
+      Personaje Spritesheet_92: 2681083928646416848
+      Personaje Spritesheet_93: 1816517724988648718
+      Personaje Spritesheet_94: 1694648219275993868
+      Personaje Spritesheet_95: -8717982223602295687
+      Personaje Spritesheet_96: -7708625957603242271
+      Personaje Spritesheet_97: -7832944751603499067
+      Personaje Spritesheet_98: 638320053555243192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
