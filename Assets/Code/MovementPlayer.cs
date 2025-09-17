@@ -21,7 +21,6 @@ public class MovementPlayer : MonoBehaviour
 
     void Start()
     {
-        print("Start");
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
@@ -29,17 +28,14 @@ public class MovementPlayer : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.A))
         {
-            print("Voy a la izquierda");
             rigidBody2DPlayer.AddForce(Vector2.left * 5f);
         }
         else if (Input.GetKey(KeyCode.D))
         {
-            print("Voy a la derecha");
             rigidBody2DPlayer.AddForce(Vector2.right * 5f);
         }
         if (Input.GetKeyDown(KeyCode.W)) 
         {
-            print("Estoy saltando");
             if (saltoValido)
             {
                 rigidBody2DPlayer.AddForce(Vector2.up * fuerzaSalto, ForceMode2D.Impulse);
