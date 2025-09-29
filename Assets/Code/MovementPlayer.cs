@@ -29,10 +29,12 @@ public class MovementPlayer : MonoBehaviour
         if (Input.GetKey(KeyCode.A))
         {
             rigidBody2DPlayer.AddForce(Vector2.left * 5f);
+            Debug.Log(GameReferences.Text.Derecha);
         }
         else if (Input.GetKey(KeyCode.D))
         {
             rigidBody2DPlayer.AddForce(Vector2.right * 5f);
+            Debug.Log(GameReferences.Text.Izquierda);
         }
         if (Input.GetKeyDown(KeyCode.W)) 
         {
@@ -46,7 +48,7 @@ public class MovementPlayer : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Ground"))
+        if (collision.gameObject.CompareTag(GameReferences.Tags.Ground))
         {
             saltoValido = true;
         }
